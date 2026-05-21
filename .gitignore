@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules
+
+# Python dependencies
+__pycache__
+*.py[cod]
+env/
+
+# IDE settings
+.vscode
+/.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
